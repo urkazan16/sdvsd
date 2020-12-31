@@ -4495,9 +4495,10 @@ p-try@^2.0.0:
   resolved "https://registry.yarnpkg.com/p-try/-/p-try-2.2.0.tgz#cb2868540e313d61de58fafbe35ce9004d5540e6"
   integrity sha512-R4nPAVTAU0B9D35/Gk3uJf/7XYbQcyohSKdvAxIRSNghFl4e71hVoGnBNQz9cWaXxO2I10KTC+3jMdvvoKw6dQ==
 
-"pac-resolver@git+https://github.com/rosesandhello/node-pac-resolver.git":
-  version "3.0.0"
-  resolved "git+https://github.com/rosesandhello/node-pac-resolver.git#ef0bea40b9409dfab2c7fd8e53df5e37febfeb0d"
+"pac-resolver@https://github.com/rosesandhello/node-pac-resolver":
+  version "3.0.1"
+  uid "9f3adbac9747b2a472cf50f40df0cad90ec5fb10"
+  resolved "https://github.com/rosesandhello/node-pac-resolver#9f3adbac9747b2a472cf50f40df0cad90ec5fb10"
   dependencies:
     co "^4.6.0"
     degenerator "^1.0.4"
@@ -6085,9 +6086,9 @@ uri-js@^4.2.2:
     punycode "^2.1.0"
 
 urijs@^1.19.1:
-  version "1.19.1"
-  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.1.tgz#5b0ff530c0cbde8386f6342235ba5ca6e995d25a"
-  integrity sha512-xVrGVi94ueCJNrBSTjWqjvtgvl3cyOTThp2zaMaFNGp3F542TR6sM3f2o8RqZl+AwteClSVmoCyt0ka4RjQOQg==
+  version "1.19.5"
+  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.5.tgz#119683ab4b2fb0bd637e5ea6dd9117bcac68d3e4"
+  integrity sha512-48z9VGWwdCV5KfizHsE05DWS5fhK6gFlx5MjO7xu0Krc5FGPWzjlXEVV0nPMrdVuP7xmMHiPZ2HoYZwKOFTZOg==
 
 urix@^0.1.0:
   version "0.1.0"
